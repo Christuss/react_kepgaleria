@@ -1,0 +1,28 @@
+* {
+  box-sizing: border-box;
+}
+
+
+
+.App-header {
+  background-color: #282c34;
+
+  display: flex;
+  flex-direction: column;
+  padding: 10px;
+  font-size: 10px;
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+.fokep img {
+  width: 80%;
+}
+
+.galeria {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+}
